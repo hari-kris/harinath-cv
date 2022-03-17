@@ -12,6 +12,7 @@
 * Raised the bar for engineering practices and quality standards by implementing coding standards and code reviews.
 * Invovled in creating API and product documentation
 * Used Metricbeat, Dockermetric and Application Program Monitoring to understand the health/behaviour of the API.
+* Hardware sizing for the API and deployed the API's in Azure VM
 
 
 **Product: Medical Search Engine**
