@@ -1,51 +1,42 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hari-kris/harinath-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### WORK HISTORY
 
 ### **BUDDI.AI** Senior Product Manager - R&D, 06/2015 - 06/2016 | Chennai, India**
+
 **Product: Medical Search Engine**
+* Define and track the priorities and requirements for this team, including data ingestion, indexing, storage and lifecycle management.
+* Work closely with the Elasticsearch Team and define and maintain a shared vision for search engine
+* Work with downstream product and engineering teams to discover, align, and prioritize their needs: understanding their timing requirements and helping think through phased approaches.
+* Conducting brown bag session to explain about various key functionality present in Elasticsearch 
+
+**Product: API Mart**
+* Coordinate across cross-functional teams, proactively identifying dependencies and risks between different teams  
+* Created several process and best practices to followed while deploying application in production
+* Invovled in creating API and product documentation
+* Used Metricbeat, Dockermetric and Application Program Monitoring to understand the health/behaviour of the API.
+
 
 **Product: Form Automation**
 
 ### **BUDDI.AI** Product Manager - R&D, 06/2015 - 06/2016 | Chennai, India**
 **Product: BURFI **
+* Developed internal tool to expediate the hiring process for HR Team and Hiring Managers
+* System is designed to handle 1000 of concurrent user who can take online test with various checks and bounds
+* Tool developed within short span and delivered to HR team which improved the hiring process and reduced time to hire/shortlist candidate
+* Invovled in testing and providing feedback to the team
+* Providing user onboarding training and created webinar for hiring manager and HR Team
 
 ### **BUDDI.AI** Product Manager - R&D, 06/2015 - 06/2016 | Chennai, India**
 **Product: DEXTER for Tabular Data Extraction**
 * Supervished the planning of Smart OCR system which overcomes the limitation of the existing problem in the OCR system available in the market
 * Managed a team of three and released the alpha version to internal customer
-* Migrated the Python POC to Scala for high performance and scalability
+* Conducting daily standup, sprint planning and retrospective meetings
+* Gromming tickets and reporting sprint status to stakeholder and business
+* Worked closely with data team to generate annotation for model building excerise and defining the annotation guidelines
+* Migrated the Python POC to Scala for high performance and scalability by providing technical guidance
 * Incorporated design patterns at system level and optimized the throughput of the deep learning model inference to few secs
 * Did competitive study among other SaaS provider in the market and generated performance report
-* Conducting daily standup, sprint planning and retrospective meetings
+
 
 **Product: SMTAnalytics.Ai**
 * Interacting with client to gather requirement and integrating them into the product suite
@@ -64,28 +55,27 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### **BUDDI.AI** Senior Software Engineer - R&D, 06/2015 - 06/2016 | Chennai, India**
 
 **Product: A Predictive Analytics Solution for Tester Machine**
-* Invovled in collection, aggregation, transformation and cleaning for machine learning activity.
+* Involved in collection, aggregation, transformation and cleaning for machine learning activity.
 * Predicted the breakdown of the tester machines ahead of time using machine learning and deep learning techniques
 * Enabled Predictive Maintenance (Pd.M.) of Tester machines.
 * Overcome extreme class imbalance problem by applying various domain knowledge and machine learning techniques
-* Constant interaction with the customer and stakeholders for review and improvement for the analytics system.
-* Interpreted data from the application and explained customer how to deduce and take proactive action in realtime
+* Constant interaction with the customer and stakeholders for review and improvement of the analytics system.
+* Interpreted data from the application and explained to customer how to deduce and take proactive action in realtime
 
 **Product: Board/Pad Failure Prediction**
-* Compared several web frameworks available for Scala programming language and developed a demo and presented to the team.
-* Collected requriement from the customer and various stakeholders
+* Compared several web frameworks available for Scala programming language, developed a demo and presented to the team.
+* Collected requirements from the customer and various stakeholders
 * Led the development for building analytical covering descriptive, prescriptive, diagnostic and predictive analytics.
-* Created data collection agent which will collect data from several machine in the factory floor.
-* Ingested the data into scalable data store, analyzed the data and provided report to the customer.
+* Created data collection agent to collect data from several machines in the factory floor.
+* Ingested the data into a scalable data store, analyzed the data and provided the report to the customer.
 * Machine learning model build to predict the machine failure ahead of time, thereby reducing the repair cost and machine downtime to the customer.
-* Developed analytical application using the Scala for business logic and Play Framework for creating rest endpoints.
+* Developed analytical application using Scala for business logic and Play Framework for creating rest endpoints.
 * Deployed and maintained application 
 
 ### **BUDDI.AI** Software Engineer - R&D, 06/2015 - 06/2016 | Chennai, India**
 **Product: Workflow Annotation Tool**
-* Developed tools and utility to help data scientist, data analyst and subject matter experts to analyze data, understand pattern and generate data.
+* Developed tools and utility to help data scientists, data analysts, and subject matter experts analyze data, understand patterns, and generate data.
 * Productivity of annotator improved by 50% and improved the model performance by 20%
-* Conducting requirements gathering and validation as a part of collaboration for the critical single page application
 * Creating mature, unambiguous coding standards resulting in overall code base unification and maintainability
 * Designing new databases and data schemas for the high-volume single page application improving data integrity and execution efficiency applying knowledge of Angular/
 * Developing new and customization of the existing features for the annotation tool
@@ -94,35 +84,35 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 **Product: Broadsoft Discovery and Dashboard**
 * Full stack developer responsible for building backend and front services.
 * Designed and developed Datawarehouse toolkit for SIP/VOIP systems.
-* Datawarehouse toolkit reduced time to identify issue from 24hours to 1hours, allowed customers to take corrective action
-* Developed plugins on top of Kibana which which will process SIP logs in real time
+* Datawarehouse toolkit reduced time to identify the issue from 24hours to 1hours, allowed customers to take corrective action
+* Developed plugins on top of Kibana which will process SIP logs in real-time
 * Introduced CI/CD using Teamcity.
-* Designed and scaled Elasticsearch Instance which works across data center for high availablity.
+* Designed and scaled Elasticsearch Instance, which works across the data centre for high availability.
 * Deployed the application in Google Cloud Platform (GCP).
 * Provided product support and maintenance to the customer.
-* Developed application is released as open source project [LINK](https://github.com/BroadSoft-Xtended/BroadWorks-Dashboards-and-Discovery)
+* Developed application is released as open-source project [LINK](https://github.com/BroadSoft-Xtended/BroadWorks-Dashboards-and-Discovery)
 
 ### **Burning Glass Technology/Checktronix Pvt Ltd, Software Engineer**, 06/2015 - 06/2016 | Chennai, India
 **Product: Lens Suite**
 * Experienced the entire software life cycle (SDLC)
 * Participated in software planning, estimation and requirement gathering
-* Worked in Labour Market Core Application which extracts all the entity from resumes and jobs
-* Worked in multi country packages and multi locale systems.
+* Worked in Labour Market Core Application which extracts all the entities from resumes and jobs
+* Worked in multi-country packages and multi-locale systems.
 * Worked with statistical model and improved the accuracy through generic rules from unstructured data from 95% to 98%
 * Documented the product features and provided product support to the clients
-* Created reports, devised new methods through proper analysis and assessment of new tools and techniques
+* Created reports devised new methods through proper analysis and assessment of new tools and techniques
 * Created automation framework using Perl/Python scripts
 
 **Product: Skill Taxonomy**
 * Migrated existing search functionality from spark to Elasticsearch
-* Throughput for processing the search increased by 30% and saved lot of compute hours
+* Throughput for processing the search increased by 30% and saved a lot of compute hours
 * Indexed millions of documents in Elasticsearch and created search functionality on it
-* Created Elasticsearch clusters and improved the response time by fine tuning
+* Created Elasticsearch clusters and improved the response time by fine-tuning
 
 ### **Burning Glass Technology/Checktronix Pvt Ltd, Intern**, 01/2015 - 02/2015 | Chennai, India
 * Created minimum viable product MVP for telecommunication use cases
 * Analyzed several tools available in the market and did comparative study for log aggregation/collected
-* Created a centralized log analyzing system with the help ELK stack
+* Created a centralized log analyzing system with the help of ELK stack
 * Performed text processing and analyzed massive log file and created root cause analysis report and presented it
 
 
