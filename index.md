@@ -1,7 +1,17 @@
 
 ### WORK HISTORY
 
-### **BUDDI.AI** Senior Product Manager - R&D, 06/2015 - 06/2016 | Chennai, India**
+### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - 06/2022 | Chennai, India**
+
+**Product: API Mart**
+* Translated the company vision into specific solutions by orchestrating release of API Mart
+* Managed the entire product life cycle from prototyping, testing, design, and launch. 
+* Coordinate across cross-functional teams, proactively identifying dependencies and risks between different teams  
+* Created several process and best practices to followed while deploying application in production
+* Raised the bar for engineering practices and quality standards by implementing coding standards and code reviews.
+* Invovled in creating API and product documentation
+* Used Metricbeat, Dockermetric and Application Program Monitoring to understand the health/behaviour of the API.
+
 
 **Product: Medical Search Engine**
 * Define and track the priorities and requirements for this team, including data ingestion, indexing, storage and lifecycle management.
@@ -9,16 +19,9 @@
 * Work with downstream product and engineering teams to discover, align, and prioritize their needs: understanding their timing requirements and helping think through phased approaches.
 * Conducting brown bag session to explain about various key functionality present in Elasticsearch 
 
-**Product: API Mart**
-* Coordinate across cross-functional teams, proactively identifying dependencies and risks between different teams  
-* Created several process and best practices to followed while deploying application in production
-* Invovled in creating API and product documentation
-* Used Metricbeat, Dockermetric and Application Program Monitoring to understand the health/behaviour of the API.
 
+### **BUDDI.AI** Product Manager - R&D, 06/2019 - 06/2021 | Chennai, India**
 
-**Product: Form Automation**
-
-### **BUDDI.AI** Product Manager - R&D, 06/2015 - 06/2016 | Chennai, India**
 **Product: BURFI **
 * Developed internal tool to expediate the hiring process for HR Team and Hiring Managers
 * System is designed to handle 1000 of concurrent user who can take online test with various checks and bounds
@@ -26,7 +29,7 @@
 * Invovled in testing and providing feedback to the team
 * Providing user onboarding training and created webinar for hiring manager and HR Team
 
-### **BUDDI.AI** Product Manager - R&D, 06/2015 - 06/2016 | Chennai, India**
+
 **Product: DEXTER for Tabular Data Extraction**
 * Supervished the planning of Smart OCR system which overcomes the limitation of the existing problem in the OCR system available in the market
 * Managed a team of three and released the alpha version to internal customer
@@ -52,7 +55,7 @@
 * Standardized the ticket and bug fixing reporting workflow into Gitlab.
 
 
-### **BUDDI.AI** Senior Software Engineer - R&D, 06/2015 - 06/2016 | Chennai, India**
+### **BUDDI.AI** Senior Software Engineer - R&D, 06/2017 - 06/2018 | Chennai, India**
 
 **Product: A Predictive Analytics Solution for Tester Machine**
 * Involved in collection, aggregation, transformation and cleaning for machine learning activity.
