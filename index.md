@@ -3,6 +3,7 @@
 
 ### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - 06/2022 | Chennai, India**
 
+
 **Product: API Mart**
 * Translated the company vision into specific solutions by orchestrating release of API Mart
 * Managed the entire product life cycle from prototyping, testing, design, and launch. 
