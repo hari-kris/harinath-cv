@@ -19,12 +19,16 @@
 * Define and track the priorities and requirements for this team, including data ingestion, indexing, storage and lifecycle management.
 * Work closely with the Elasticsearch Team and define and maintain a shared vision for search engine
 * Work with downstream product and engineering teams to discover, align, and prioritize their needs: understanding their timing requirements and helping think through phased approaches.
+* Creating centralized data access pipleline adhering to HIPAA compilance
 * Conducting brown bag session to explain about various key functionality present in Elasticsearch 
 
+**other Activity**
+* Introduced MLops to the team and conducted survery about several tools in the market
+* Competitive analyzse and created feature matrix
 
 ### **BUDDI.AI** Product Manager - R&D, 06/2019 - 06/2021 | Chennai, India**
 
-**Product: BURFI **
+**Product: BURFI**
 * Developed internal tool to expediate the hiring process for HR Team and Hiring Managers
 * System is designed to handle 1000 of concurrent user who can take online test with various checks and bounds
 * Tool developed within short span and delivered to HR team which improved the hiring process and reduced time to hire/shortlist candidate
@@ -56,6 +60,12 @@
 * Managed stakeholder relationship and negotating the term and timelines/deadlines
 * Standardized the ticket and bug fixing reporting workflow into Gitlab.
 
+**other Activity**
+* Actively invovled in the hiring life cycle by visiting campus, conducting online quiz and programming round
+* Defining KRA and KPI for the team members
+* Organizing and planning for various conferences activity by creating right marketing material and created demo's to showcase 
+* Introduced training platform for interns and new joinees
+* Evaluating the right tool to solve the problem
 
 ### **BUDDI.AI** Senior Software Engineer - R&D, 06/2017 - 06/2018 | Chennai, India**
 
@@ -66,6 +76,7 @@
 * Overcome extreme class imbalance problem by applying various domain knowledge and machine learning techniques
 * Constant interaction with the customer and stakeholders for review and improvement of the analytics system.
 * Interpreted data from the application and explained to customer how to deduce and take proactive action in realtime
+* Performing Code review, packing and releasing the build in the production machine.
 
 **Product: Board/Pad Failure Prediction**
 * Compared several web frameworks available for Scala programming language, developed a demo and presented to the team.
@@ -76,6 +87,12 @@
 * Machine learning model build to predict the machine failure ahead of time, thereby reducing the repair cost and machine downtime to the customer.
 * Developed analytical application using Scala for business logic and Play Framework for creating rest endpoints.
 * Deployed and maintained application 
+
+**other Activity**
+* Migrated the source control from SVN to Git
+* Evaluated various Git software and proposed Gitlab for source management and project tracking
+* Introduced CI/CD practise to the team
+* Documented various product lifecycle details in sharepoint page
 
 ### **BUDDI.AI** Software Engineer - R&D, 06/2015 - 06/2016 | Chennai, India**
 **Product: Workflow Annotation Tool**
