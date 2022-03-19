@@ -1,4 +1,5 @@
 
+
 ### WORK HISTORY
 
 ### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - 06/2022 | Chennai, India**
@@ -165,6 +166,7 @@
 
 ### Paper Published
 * Demo Track, “SMTAnalytics.AI: A Predictive and Preventive Intelligence Platform for SMT Manufacturing,” CODS-COMAD, Jan 2020.
+* HEVC Encoder Analysis at International Conference on Innovations & Discoveries in Engineering
 
 ### Patent
 
