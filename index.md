@@ -1,90 +1,96 @@
+### Summary
+I'm an engineer who had a passion for big data and the scalable system turned Product Manager, managing Enterprise AI SaaS products for three years.
 
+I have worked with start-ups and fortune 500 companies, building and managing platform products, and developer tools for nearly seven years.
+
+Previous to my PM experience, I was a full-stack product engineer, data intensive system, building dev tools, machine learning models, and UI components for four years.
+
+Since I'm an Engineer turned PM, I naturally earned the technical expertise required for a technical Product Manager. I honed my other skills all these years, such as Market and competitive research, prioritization, Product Discovery, Roadmapping, Product Metrics, Interpersonal, strategic thinking, and management skills.
 
 ### WORK HISTORY
-
 ### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - 06/2022 | Chennai, India**
 
-
 **Product: API Mart**
-* Translated the company vision into specific solutions by orchestrating release of API Mart
-* Managed the entire product life cycle from prototyping, testing, design, and launch. 
-* Coordinate across cross-functional teams, proactively identifying dependencies and risks between different teams  
-* Created several process and best practices to followed while deploying application in production
-* Raised the bar for engineering practices and quality standards by implementing coding standards and code reviews.
-* Invovled in creating API and product documentation
-* Used Metricbeat, Dockermetric and Application Program Monitoring to understand the health/behaviour of the API.
-* Hardware sizing for the API and deployed the API's in Azure VM
+* Translated the company vision into specific solutions by orchestrating the release of API Mart
+* Managed the entire product life cycle from prototyping, design, development, testing, and launch.
+* Coordinate across cross-functional teams, proactively identifying dependencies and risks between different teams
+* Created several processes and best practices to follow while deploying an application in production
+* Raised the bar for engineering practices and quality standards by implementing coding guidelines and code reviews.
+* Involved in creating API and product documentation
+* Used Metricbeat, Dockermetric, and Application Program Monitoring to understand the health/behavior of the API.
+* Hardware sizing for the API and deployed the APIs in Azure VM
 
 
 **Product: Medical Search Engine**
-* Define and track the priorities and requirements for this team, including data ingestion, indexing, storage and lifecycle management.
+* Define and track the priorities and requirements for this team, including data ingestion, indexing, storage, and lifecycle management.
 * Work closely with the Elasticsearch Team and define and maintain a shared vision for search engine
 * Work with downstream product and engineering teams to discover, align, and prioritize their needs: understanding their timing requirements and helping think through phased approaches.
-* Creating centralized data access pipleline adhering to HIPAA compilance
-* Conducting brown bag session to explain about various key functionality present in Elasticsearch 
+* Creating centralized data access pipeline adhering to HIPAA compliance
+* Conducting brown bag session to explain various key functionality present in Elasticsearch 
 
 **other Activity**
-* Introduced MLops to the team and conducted survery about several tools in the market
-* Competitive analyzse and created feature matrix
+* Introduced MLops to the team and conducted a researched about several tools in the market
+* Performed Competitive analyzes and created feature matrix
 
 ### **BUDDI.AI** Product Manager - R&D, 06/2019 - 06/2021 | Chennai, India**
 
 **Product: BURFI**
-* Developed internal tool to expediate the hiring process for HR Team and Hiring Managers
-* System is designed to handle 1000 of concurrent user who can take online test with various checks and bounds
-* Tool developed within short span and delivered to HR team which improved the hiring process and reduced time to hire/shortlist candidate
-* Invovled in testing and providing feedback to the team
-* Providing user onboarding training and created webinar for hiring manager and HR Team
+* Developed internal tool to expedite the hiring process for HR Team and to hire Managers
+* System is designed to handle 1000 concurrent user who can take online tests with various checks and bounds
+* Tool developed within a short span and delivered to HR team, which improved the hiring process and reduced time to hire/shortlist candidate
+* Involved in testing and providing feedback to the team
+* Providing user onboarding training and created a webinar for the hiring manager and HR Team
 
 
 **Product: DEXTER for Tabular Data Extraction**
-* Supervished the planning of Smart OCR system which overcomes the limitation of the existing problem in the OCR system available in the market
+* Supervised the planning of the Smart OCR system, which overcomes the limitation of the existing problem in the OCR system available in the market
 * Managed a team of three and released the alpha version to internal customer
-* Conducting daily standup, sprint planning and retrospective meetings
-* Gromming tickets and reporting sprint status to stakeholder and business
-* Worked closely with data team to generate annotation for model building excerise and defining the annotation guidelines
+* Conducting daily standup, sprint planning, and retrospective meetings
+* Grooming tickets and reporting sprint status to stakeholder and business
+* Worked closely with data team to generate annotation for model building exercise and defining the annotation guidelines
 * Migrated the Python POC to Scala for high performance and scalability by providing technical guidance
-* Incorporated design patterns at system level and optimized the throughput of the deep learning model inference to few secs
-* Did competitive study among other SaaS provider in the market and generated performance report
+* Incorporated design patterns at the system level and optimized the throughput of the deep learning model inference to a few secs
+* Did competitive study among other SaaS providers in the market and generated performance report
 
 
 **Product: SMTAnalytics.Ai**
-* Interacting with client to gather requirement and integrating them into the product suite
-* Travelled lot to collect the requirement from customer environment directly from factory floor and understood various lifecycle
-* Managed a team of 6 and developed machine learning/deep learning predictive maintenance platform from the scratch.
-* Experimented new technology suiting for product line
+* Interacting with the client to gather requirements and integrate them into the product suite
+* Travelled lot to collect the requirement from customer environment directly from the factory floor and understood various lifecycle
+* Managed a team of 6 and developed a machine learning/deep learning predictive maintenance platform from scratch.
+* Experimented with new technology suiting for product line
 * Created a unified platform for the SMT technology with digital twin powered.
 * Product pitch at various machine learning conclave and manufacturing conference
 * Developed product roadmap and budgeting.
-* Conducting daily standup, sprint planning and retrospective meetings
-* Product documentation, support and maintenance
-* Managed stakeholder relationship and negotating the term and timelines/deadlines
+* Conducting daily standup, sprint planning, and retrospective meetings
+* Product documentation, support, and maintenance
+* Managed stakeholder relationships and negotiating the term and timelines/deadlines
 * Standardized the ticket and bug fixing reporting workflow into Gitlab.
 
 **other Activity**
-* Actively invovled in the hiring life cycle by visiting campus, conducting online quiz and programming round
+* Actively involved in the hiring life cycle by visiting campus, conducting online quiz and programming round
 * Defining KRA and KPI for the team members
-* Organizing and planning for various conferences activity by creating right marketing material and created demo's to showcase 
-* Introduced training platform for interns and new joinees
+* Organizing and planning for various conferences activity by creating the suitable marketing material and creating demos to showcase 
+* Introduced training platform for interns and new employee
 * Evaluating the right tool to solve the problem
 
 ### **BUDDI.AI** Senior Software Engineer - R&D, 06/2017 - 06/2018 | Chennai, India**
 
 **Product: A Predictive Analytics Solution for Tester Machine**
-* Involved in collection, aggregation, transformation and cleaning for machine learning activity.
+* Involved in collection, aggregation, transformation, and cleaning for machine learning activity.
 * Predicted the breakdown of the tester machines ahead of time using machine learning and deep learning techniques
 * Enabled Predictive Maintenance (Pd.M.) of Tester machines.
 * Overcome extreme class imbalance problem by applying various domain knowledge and machine learning techniques
 * Constant interaction with the customer and stakeholders for review and improvement of the analytics system.
-* Interpreted data from the application and explained to customer how to deduce and take proactive action in realtime
-* Performing Code review, packing and releasing the build in the production machine.
+* Interpreted data from the application and explained to the customer how to deduce and take proactive action in realtime
+* Performing Code review, packing, and releasing the build in the production machine.
 
 **Product: Board/Pad Failure Prediction**
-* Compared several web frameworks available for Scala programming language, developed a demo and presented to the team.
+* Compared several web frameworks available for Scala programming language, developed a demo, and presented to the team.
 * Collected requirements from the customer and various stakeholders
-* Led the development for building analytical covering descriptive, prescriptive, diagnostic and predictive analytics.
-* Created data collection agent to collect data from several machines in the factory floor.
-* Ingested the data into a scalable data store, analyzed the data and provided the report to the customer.
+* Led the development for building analytical covering descriptive, prescriptive, diagnostic, and predictive analytics.
+* Created data collection agent to collect data from several machines on the factory floor.
+* Ingested the data into a scalable data store, analyzed the data, and provided the report to the customer.
+* Scaled MySQL server to handle several G.B's of data
 * Machine learning model build to predict the machine failure ahead of time, thereby reducing the repair cost and machine downtime to the customer.
 * Developed analytical application using Scala for business logic and Play Framework for creating rest endpoints.
 * Deployed and maintained application 
@@ -92,8 +98,8 @@
 **other Activity**
 * Migrated the source control from SVN to Git
 * Evaluated various Git software and proposed Gitlab for source management and project tracking
-* Introduced CI/CD practise to the team
-* Documented various product lifecycle details in sharepoint page
+* Introduced CI/CD practice to the team
+* Documented various product lifecycle details on wiki page
 
 ### **BUDDI.AI** Software Engineer - R&D, 06/2015 - 06/2016 | Chennai, India**
 **Product: Workflow Annotation Tool**
@@ -108,17 +114,17 @@
 * Full stack developer responsible for building backend and front services.
 * Designed and developed Datawarehouse toolkit for SIP/VOIP systems.
 * Datawarehouse toolkit reduced time to identify the issue from 24hours to 1hours, allowed customers to take corrective action
-* Developed plugins on top of Kibana which will process SIP logs in real-time
+* Developed plugins on top of Kibana, which will process SIP logs in real-time
 * Introduced CI/CD using Teamcity.
-* Designed and scaled Elasticsearch Instance, which works across the data centre for high availability.
+* Designed and scaled Elasticsearch Instance, which works across the data center for high availability.
 * Deployed the application in Google Cloud Platform (GCP).
 * Provided product support and maintenance to the customer.
-* Developed application is released as open-source project [LINK](https://github.com/BroadSoft-Xtended/BroadWorks-Dashboards-and-Discovery)
+* Developed application is released as an open-source project [LINK](https://github.com/BroadSoft-Xtended/BroadWorks-Dashboards-and-Discovery)
 
 ### **Burning Glass Technology/Checktronix Pvt Ltd, Software Engineer**, 06/2015 - 06/2016 | Chennai, India
 **Product: Lens Suite**
 * Experienced the entire software life cycle (SDLC)
-* Participated in software planning, estimation and requirement gathering
+* Participated in software planning, estimation, and requirement gathering
 * Worked in Labour Market Core Application which extracts all the entities from resumes and jobs
 * Worked in multi-country packages and multi-locale systems.
 * Worked with statistical model and improved the accuracy through generic rules from unstructured data from 95% to 98%
