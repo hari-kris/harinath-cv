@@ -31,6 +31,7 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 **other Activity**
 * Introduced MLops to the team and conducted a researched about several tools in the market
 * Performed Competitive analyzes and created feature matrix
+* Filled patents and did various research activity 
 
 ### **BUDDI.AI** Product Manager - R&D, 06/2019 - 06/2021 | Chennai, India**
 
