@@ -8,7 +8,7 @@ Previous to my PM experience, I was a full-stack product engineer, data intensiv
 Since I'm an Engineer turned PM, I naturally earned the technical expertise required for a technical Product Manager. I honed my other skills all these years, such as Market and competitive research, prioritization, Product Discovery, Roadmapping, Product Metrics, Interpersonal, strategic thinking, and management skills.
 
 ### WORK HISTORY
-### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - 06/2022 | Chennai, India**
+### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - Present | Chennai, India**
 
 **Product: API Mart**
 * Translated the company vision into specific solutions by orchestrating the release of API Mart
@@ -172,15 +172,15 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 * French - Basic
 
 ### Paper Published
-* Demo Track, “SMTAnalytics.AI: A Predictive and Preventive Intelligence Platform for SMT Manufacturing,” CODS-COMAD, Jan 2020.
+* Demo Track, “SMTAnalytics.AI: A Predictive and Preventive Intelligence Platform for SMT Manufacturing,” CODS-COMAD, Jan 2021.
 * HEVC Encoder Analysis at International Conference on Innovations & Discoveries in Engineering
+* Applied Research Track: “BTF BUDDI Table Factory: Sythentic Table Factory“ CODS-COMAD, Jan 2023.
 
 ### Patent
 
 * DEXTER: A System to extract content from tables for Medical Health Documents 
 * SMTAnalytics.AI: A Predictive and Preventive Intelligence Platform for Surface Mount Technology Manufacturing of electronics 
 * Predictive Analytics for the fitness of Test Plan
-* Multimodal Annotation Tool
 
 ### Interest
 *  Teaching & Mentoring
