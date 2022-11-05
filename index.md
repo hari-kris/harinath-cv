@@ -110,7 +110,7 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 * Designing new databases and data schemas for the high-volume single page application improving data integrity and execution efficiency applying knowledge of Angular/
 * Developing new and customization of the existing features for the annotation tool
 
-### **Broadsoft Technologies/CISCO, Software Engineer**, 06/2015 - 06/2016 | Chennai, India
+### **Broadsoft Technologies/CISCO, Software Engineer**, 06/2016 - 06/2017 | Chennai, India
 **Product: Broadsoft Discovery and Dashboard**
 * Full stack developer responsible for building backend and front services.
 * Designed and developed Datawarehouse toolkit for SIP/VOIP systems.
@@ -139,7 +139,7 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 * Indexed millions of documents in Elasticsearch and created search functionality on it
 * Created Elasticsearch clusters and improved the response time by fine-tuning
 
-### **Burning Glass Technology/Checktronix Pvt Ltd, Intern**, 01/2015 - 02/2015 | Chennai, India
+### **Cango Networks, Intern**, 01/2015 - 02/2015 | Chennai, India
 * Created minimum viable product MVP for telecommunication use cases
 * Analyzed several tools available in the market and did comparative study for log aggregation/collected
 * Created a centralized log analyzing system with the help of ELK stack
