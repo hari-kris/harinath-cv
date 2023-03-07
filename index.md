@@ -8,30 +8,34 @@ Previous to my PM experience, I was a full-stack product engineer, data intensiv
 Since I'm an Engineer turned PM, I naturally earned the technical expertise required for a technical Product Manager. I honed my other skills all these years, such as Market and competitive research, prioritization, Product Discovery, Roadmapping, Product Metrics, Interpersonal, strategic thinking, and management skills.
 
 ### WORK HISTORY
-### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - Present | Chennai, India**
+### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - 10/2023 | Chennai, India**
 
 **Product: API Mart**
 * Translated the company vision into specific solutions by orchestrating the release of API Mart
+* Collaborate with engineering and design teams to ensure the successful delivery of products on time and within budget
 * Managed the entire product life cycle from prototyping, design, development, testing, and launch.
-* Coordinate across cross-functional teams, proactively identifying dependencies and risks between different teams
-* Created several processes and best practices to follow while deploying an application in production
-* Raised the bar for engineering practices and quality standards by implementing coding guidelines and code reviews.
-* Involved in creating API and product documentation
-* Used Metricbeat, Dockermetric, and Application Program Monitoring to understand the health/behavior of the API.
-* Hardware sizing for the API and deployed the APIs in Azure VM
-
+* Collaborated with cross-functional teams to define product requirements, create product specifications, understand risk and oversee product development
+* Led in building model and deployed the model in production using best practices
+* Actively participated in various agile ceremonies 
+* Defined and tracked the priorities and requirements for multiple products
+* Involved in creating API contract and product documentation
+*  Worked with sales and marketing teams to develop go-to-market strategies and ensure successful product launches.
+* Link https://bazaar.buddi.ai/sandbox/
 
 **Product: Medical Search Engine**
+* Conducted user research and analysis to identify customer needs and make data-driven decisions on product features and functionality
 * Define and track the priorities and requirements for this team, including data ingestion, indexing, storage, and lifecycle management.
-* Work closely with the Elasticsearch Team and define and maintain a shared vision for search engine
+* Work closely with the Search Team and define and maintain a shared vision for search engine
 * Work with downstream product and engineering teams to discover, align, and prioritize their needs: understanding their timing requirements and helping think through phased approaches.
 * Creating centralized data access pipeline adhering to HIPAA compliance
 * Conducting brown bag session to explain various key functionality present in Elasticsearch 
 
 **other Activity**
 * Introduced MLops to the team and conducted a researched about several tools in the market
-* Performed Competitive analyzes and created feature matrix
+* Performed Competitive analyzes and created feature matrix for all the API in ecosystem
 * Filled patents and did various research activity 
+* Took the initiative in mentoring colleagues and created a colleagues mentorship program
+* Raised the bar for engineering practices and quality standards by implementing coding guidelines and code reviews to improve product stability.
 
 ### **BUDDI.AI** Product Manager - R&D, 06/2019 - 06/2021 | Chennai, India**
 
@@ -41,7 +45,7 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 * Tool developed within a short span and delivered to HR team, which improved the hiring process and reduced time to hire/shortlist candidate
 * Involved in testing and providing feedback to the team
 * Providing user onboarding training and created a webinar for the hiring manager and HR Team
-
+* https://research.buddi.ai/burfi/
 
 **Product: DEXTER for Tabular Data Extraction**
 * Supervised the planning of the Smart OCR system, which overcomes the limitation of the existing problem in the OCR system available in the market
@@ -56,7 +60,7 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 
 **Product: SMTAnalytics.Ai**
 * Interacting with the client to gather requirements and integrate them into the product suite
-* Travelled lot to collect the requirement from customer environment directly from the factory floor and understood various lifecycle
+* Travelled to customer place to collect the requirement directly from the factory floor and understood various lifecycle
 * Managed a team of 6 and developed a machine learning/deep learning predictive maintenance platform from scratch.
 * Experimented with new technology suiting for product line
 * Created a unified platform for the SMT technology with digital twin powered.
@@ -154,7 +158,17 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 | M.Tech Data Science & Engineering  | Birla Institute of Technology  |  2021-2023  |
 | B.E Computer Science & Engineering | Jaya Engineering College  | 2011-2015  |
 
-### Skills
+### Product Skils
+* Product management
+* Cross-functional team leadership
+* Product strategy development
+* Market research and analysis
+* Data analysis and decision-making
+* Agile development methodologies
+* Excellent communication and collaboration skills
+* Customer-focused mindset.
+
+### Technical Skills
 
 * **Programming Language:** Scala, Python, Java, Javascript
 * **Database Technologies:** Mysql, Postgres
@@ -172,13 +186,15 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 * French - Basic
 
 ### Paper Published
+* BUDDI Table Factory: A toolbox for generating synthetic documents with annotated tables and cellsBUDDI Table Factory: A toolbox for generating synthetic documents with annotated tables and cells CODS-COMAD '23: Proceedings of the 6th Joint International Conference on Data Science & Management of Data (10th ACM IKDD CODS and 28th COMAD)January 2023 · Jan 4, 2023 
+* ANALYSIS AND MEASUREMENT OF THE HEVC ENCODER COMPLEXITY FOR PERFORMANCE OPTIMIZATIONANALYSIS AND MEASUREMENT OF THE HEVC ENCODER COMPLEXITY FOR PERFORMANCE OPTIMIZATION
+International Journal of Pure and Applied Mathematics · Nov 8, 2018
 * Demo Track, “SMTAnalytics.AI: A Predictive and Preventive Intelligence Platform for SMT Manufacturing,” CODS-COMAD, Jan 2021.
 * HEVC Encoder Analysis at International Conference on Innovations & Discoveries in Engineering
-* Applied Research Track: “BTF BUDDI Table Factory: Sythentic Table Factory“ CODS-COMAD, Jan 2023.
 
 ### Patent
 
-* DEXTER: A System to extract content from tables for Medical Health Documents 
+* DEXTER: A System to extract content from tables for Medical Health Documents [LINK](https://patents.google.com/patent/US20220284722A1/en?oq=US20220284722A1)
 * SMTAnalytics.AI: A Predictive and Preventive Intelligence Platform for Surface Mount Technology Manufacturing of electronics 
 * Predictive Analytics for the fitness of Test Plan
 
