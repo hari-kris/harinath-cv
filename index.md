@@ -7,8 +7,16 @@ Previous to my PM experience, I was a full-stack product engineer, data intensiv
 
 Since I'm an Engineer turned PM, I naturally earned the technical expertise required for a technical Product Manager. I honed my other skills all these years, such as Market and competitive research, prioritization, Product Discovery, Roadmapping, Product Metrics, Interpersonal, strategic thinking, and management skills.
 
-### WORK HISTORY
-### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - 10/2023 | Chennai, India**
+### WORK EXPERIENCE
+
+### **ZOOMINFO** Senior Product Manager - R&D, 10/2022 - Present | Chennai, India**
+**Product: ZoomInfo Marketing OS**
+* Develop and execute product roadmaps, ensuring alignment with the company's overall strategy and vision
+* Lead the development and launch of new integrations within the platform as part of Up-market motion
+* Worked closely with Customer success, product marketing, engineering and other team in delivering the product in right time to the market
+* Started the intiative for horizontal integration within the company to enable better connectivity across products
+
+### **BUDDI.AI** Senior Product Manager - R&D, 06/2021 - 10/2022 | Chennai, India**
 
 **Product: API Mart**
 * Translated the company vision into specific solutions by orchestrating the release of API Mart
@@ -19,7 +27,7 @@ Since I'm an Engineer turned PM, I naturally earned the technical expertise requ
 * Actively participated in various agile ceremonies 
 * Defined and tracked the priorities and requirements for multiple products
 * Involved in creating API contract and product documentation
-*  Worked with sales and marketing teams to develop go-to-market strategies and ensure successful product launches.
+* Worked with sales and marketing teams to develop go-to-market strategies and ensure successful product launches.
 * Link https://bazaar.buddi.ai/sandbox/
 
 **Product: Medical Search Engine**
@@ -208,3 +216,4 @@ International Journal of Pure and Applied Mathematics · Nov 8, 2018
 ### Contact
 
 Email: hariganesh94@gmail.com
+LinkedIn: https://www.linkedin.com/in/harinath-krishnamoorthy/
